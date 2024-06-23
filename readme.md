@@ -16,7 +16,7 @@ Welcome to **PABLO**! 🎉 The ultimate tool for goooning. Let's dive in and hav
     ```
 2. Navigate to the project directory:
     ```bash
-    cd goon
+    cd pablo
     ```
 3. Install dependencies:
     ```bash
